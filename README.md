@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EdenExperiments
+- 👋 Hi, I’m @EdenExperiments /  Macaulay Eden
 - 👀 I’m interested in Video Games, Music and AI/Robotics.
 - 🌱 I’m currently learning full stack web development to begin a resume for future learning projects in C++ and Python.
 - 💞️ I’m looking to collaborate on beginner friendly projects.
