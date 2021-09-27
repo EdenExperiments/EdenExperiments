@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on beginner friendly projects.
 - 📫 How to reach me: Macaulay.eden30@gmail.com, or use my LinkedIn Profile link: https://www.linkedin.com/in/macaulay-eden-5b5b3a127/
 
-## Currently on a break until Mid October due to final work required to finish a Post Grad Diploma for my current job, below is a list of current projects and any upcoming projects. 
+### Currently on a break until Mid October due to final work required to finish a Post Grad Diploma for my current job and planning the core features of a second Discord bot, below is a list of current projects and any upcoming projects. 
 
 ## Current Projects:
 - Gyoshin the Raid Planner Bot (Alongside Martijin Bos).
