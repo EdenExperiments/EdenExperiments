@@ -12,7 +12,7 @@
 
 ## Upcoming Projects:
 - Discord Bot in collaboration of CodeCademy London Chapter.
-- Completion of 2/3 Data analysis/Data Science projects once Gyoshin is out of beta and core initial work is completed on the CodeCademy Chapter Bot. 
+- Completion of 2/3 Data analysis/Data Science projects once current projects and CodeCademy bot is completed.
 
 
 <!---
