@@ -7,11 +7,11 @@
 #### Just coming back from a studying break due to work commitments and have completed my Post Graduate Diploma in Acoustics and Vibrations with the Institute of Acoustics. Currently working on a mix of Gyoshin (stretch features and debugging, with code now available on Martijins github and I am currently getting use to making pull requests, committing and merging), Continuing Codecademy's computer science course (with work on adventure.py to continue soon, and planning a discord bot for Codecademy London Chapter. 
 
 ## Current Projects:
-- Gyoshin the Raid Planner Bot (Alongside Martijin Bos).
-- Adventure.Py (Classic text based adventure).
+- Leading node.js discord bot with the codecademy london chapter. completed main file and my functions, soon will be assisting with new programmers to complete their .js files.
+- Adventure.Py (Classic text based adventure). - undergoing increase in scope and new planning stages
 
 ## Upcoming Projects:
-- Discord Bot in collaboration of CodeCademy London Chapter.
+
 - Completion of 2/3 Data analysis/Data Science projects once current projects and CodeCademy bot is completed.
 
 
