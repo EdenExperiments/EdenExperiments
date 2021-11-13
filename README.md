@@ -8,11 +8,15 @@
 
 ## Current Projects:
 - Leading node.js discord bot with the codecademy london chapter. completed main file and my functions, soon will be assisting with new programmers to complete their .js files.
-- Adventure.Py (Classic text based adventure). - undergoing increase in scope and new planning stages
+
+- Gyoshin the raid planner discord bot. Written in python, a discord bot build in colabboration with Martijin Bos, includes SQLite. Although this project is 99% complete, with minor adjustments, there will be potential major overhauls with the recent Discord.py news.
+
+- Adventure.Py (Classic text based adventure). - scrapped as I intend to put my learning of each codecademy module into a larger project, including databases and memory management with C++ rather than Python, and will focus python to the data orientated projects. 
 
 ## Upcoming Projects:
 
 - Completion of 2/3 Data analysis/Data Science projects once current projects and CodeCademy bot is completed.
+- Unreal Engine Game.
 
 
 <!---
