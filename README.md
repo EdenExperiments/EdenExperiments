@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EdenExperiments /  Macaulay Eden
 - 👀 I’m interested in Video Games, Music and AI/Robotics.
-- 🌱 I’m currently learning Computer Science on Codecademy (Python, JS, SQL), alongside MITx 18.01.1xCalculus 1A: Differentiation on edx.org for calculus refreshers, and C++ for more complex language practice.
-- 💞️ I’m looking to collaborate on beginner friendly projects.
+- 🌱 I’m currently a trainee developer, with a focus on front-end development, currently still expanding my skillset with a focus on JS/Node/React/MongoDB
 - 📫 How to reach me: Macaulay.eden30@gmail.com, or use my LinkedIn Profile link: https://www.linkedin.com/in/macaulay-eden-5b5b3a127/
 
 ## Current Projects:
