@@ -5,13 +5,10 @@
 
 ## Current Projects:
 
-- Leading node.js discord bot with the codecademy london chapter. completed main file and my functions, soon will be assisting with new programmers to complete their .js files.
-
-- Gyoshin the raid planner discord bot. Written in python, a discord bot build in colabboration with Martijin Bos, includes SQLite. Although this project is 99% complete, with minor adjustments, there will be potential major overhauls with the recent Discord.py news. 
+- Working on codecademy london bot + progressing through frontend mentor challenges, beginning with HTML/CSS/JS to moving onto React
 
 ## Upcoming Projects:
 
-- Unreal Engine Game.
 
 
 <!---
