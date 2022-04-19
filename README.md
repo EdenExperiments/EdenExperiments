@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EdenExperiments /  Macaulay Eden
 - 👀 I’m interested in Video Games, Music and AI/Robotics.
-- 🌱 I’m currently a trainee developer, with a focus on front-end development, currently still expanding my skillset with a focus on JS/Node/React/MongoDB
+- 🌱 I’m currently an apprentice web engineer, with a focus on front-end, currently at a comfortable level with HTML/CSS/JS and soon learning React.JS/Node.JS/MongoDB
 - 📫 How to reach me: Macaulay.eden30@gmail.com, or use my LinkedIn Profile link: https://www.linkedin.com/in/macaulay-eden-5b5b3a127/
 
 
