@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @EdenExperiments /  Macaulay Eden
-- 👀 I’m interested in Video Games, Music and AI/Robotics.
-- 🌱 I’m currently an apprentice web engineer, with a focus on front-end, currently at a comfortable level with HTML/CSS/JS and soon learning React.JS/Node.JS/MongoDB
+- 👀 I’m interested in Web technology, Video Games, Music, And AI.
+- 🌱 Currently finishing a level 4 software engineer apprenticeship, with a focus on full-stack web development, where I have learned HTML/CSS/JS/TypeScript/C#/SQL/Python including frameworks/libraries such as ASP.NET Core/React/Power BI.
+      Now beginning to learn containerisation (which I have used already on macaulayeden.lol), MongoDB, and continuing to level up programming skills. 
 - 📫 How to reach me: Macaulay.eden30@gmail.com, or use my LinkedIn Profile link: https://www.linkedin.com/in/macaulay-eden-5b5b3a127/
 
 
