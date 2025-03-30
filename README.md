@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EdenExperiments /  Macaulay Eden
 - 👀 I’m interested in Web technology, Video Games, Music, And AI.
-- 🌱 Currently a Full-Stack Software Engineer working on Supply Chain Systems, with a focus on forecasting w/ AI to reduce food waste.
+- 🌱 Currently a Full-Stack Software Engineer working on Financial Compliance software, with a focus on .NET/SQL Server/Azure tech stacks. 
 - 📫 How to reach me: Macaulay.eden30@gmail.com, or use my LinkedIn Profile link: https://www.linkedin.com/in/macaulay-eden-5b5b3a127/
 
 
